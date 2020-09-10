@@ -1,0 +1,8 @@
+name: "flexdashboard-example"
+output_dir: docs
+
+# The purpose of this file is to explain where to find the output directory.
+# RMarkdown files are converted to HTML files. This is RMarkdown's output. 
+# The output_dir is where you want RMarkdown to store those outputs.
+# As it happens, github reads HTML files from a "docs" directory, which is 
+# why we've specified that this is where our HTML outputs should be placed
